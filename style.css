@@ -1,0 +1,142 @@
+#para1{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-style: italic;
+    
+}
+footer
+{
+    background-color: black;
+    height: 300px;
+    width: 1100px;
+}
+footer p
+{
+
+color: white;
+font-size: 12px;
+text-align: center;
+padding-right: 200px;
+padding-top: 10px;
+
+}
+.btn-group{
+    
+    font-size: 20px;
+    display:inline-flex;
+    padding-bottom: 100px;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 200px;
+    
+    
+}
+
+.button1{
+    
+    background-color: rgb(3, 3, 164);
+    font-size: 20px;
+    
+    padding: 10px 100px;
+    border-radius: 4px;
+    border:none;
+    }
+
+    .button2{
+        background-color: rgb(11, 182, 249);
+        font-size: 20px;
+        padding: 10px 100px;
+        border-radius: 4px;
+        border: none;
+    }
+
+    .button3
+    {
+        background-color: red;
+        font-size: 20px;
+        padding: 10px 100px;
+        border-radius: 4px;
+        border:none;
+        
+        
+    }
+
+.footer .fa-facebook
+{
+    font-size: 20px;
+    text-align: center;
+    border: none;
+}
+.footer .fa-instagram
+{
+    font-size: 30px;
+    width:10px;
+    display: inline;
+    padding-right: 10px;
+    text-align: center; 
+}
+.footer .material-icons,.fa-linkein
+{
+    font-size: 30px;
+    width:10px;
+    display: inline;
+    padding-right: 20px;
+    text-align: center; 
+}
+.footer .fa-printerest
+{
+    font-size: 30px;
+    width:10px;
+    display: inline;
+    padding-right: 50px;
+    text-align: center; 
+}
+.footer .fa-twitter
+{
+    font-size: 30px;
+    width:10px;
+    display: inline;
+    padding-right: 50px;
+    text-align: center; 
+}
+
+.footer.fa-youtube
+{
+    font-size: 30px;
+    width:10px;
+    display: inline;
+    padding-right: 50px;
+    text-align: center; 
+}
+.footer .material-icons,
+.fa-facebook
+{
+    background-color: black;
+    
+}
+
+.footer .material-icons,
+.fa-instagram
+{
+    background-color: white;
+}
+.footer .material-icons,
+.fa-twitter
+{
+   background-color: white;
+}
+.footer .material-icons,
+.fa-youtube
+{
+    color: white;
+}
+.footer .material-icons,
+.fa-linkein
+{
+    color:white;
+}
+.footer .material-icons,
+.fa-printerest
+{
+    color: white;
+}
